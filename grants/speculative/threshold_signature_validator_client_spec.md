@@ -45,7 +45,7 @@ https://github.com/obsidiansystems?tab=repositories. Additionally/Relevantly:
 - https://www.linkedin.com/in/reinhartmichael/
 
 ## Project Roadmap
-We recommend a timeline of 3-5 weeks to complete this project. The total cost is $20,000. Our team will include developers, Project Manager, and a Product Owner, with an average staffing of 2 FTE across these roles. Ideally payment would be received after the completion of each phase, with ½ received after Phase 1 and ½ received at the completion of Phase 2.
+We recommend a timeline of 3-5 weeks to complete this project. Our team will include developers, Project Manager, and a Product Owner, with an average staffing of 2 FTE across these roles. Ideally payment would be received after the completion of each phase, with ½ received after Phase 1 and ½ received at the completion of Phase 2.
 
 ### Phase 1: High-level Specification
 Most of the requirement gathering for this project is already complete and a preliminary specification is included in this proposal below. Before we consider Phase 1 complete, we’d review our high level plans with the Web3 Foundation to confirm the solutions we have in mind align well with their goals.
